@@ -55,6 +55,9 @@ OUTPUT:
 
 
 TABULATION:
+<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/a5436066-2c2e-47b5-9819-bfe6f50b3980" />
+<img width="768" height="1280" alt="image" src="https://github.com/user-attachments/assets/b49d0ef9-11a7-46eb-9d6f-63a2ab14cb01" />
+
 
 
 
